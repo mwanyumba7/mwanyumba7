@@ -6,7 +6,7 @@
 
 - 👥 I'm currently the Technical Writing Channel Lead for [Dev Carrers](https://devcareer.io/) Community. I'm also on the core team for [GDSC Kabarak University](https://gdsc.community.dev/kabarak-university/), leading the Technical Writing track. I also volunteer in the [Open Source Community Africa, Nairobi](https://github.com/OSCA-Nairobi). 
 
-- 🚀 I am very passionate about giving back to the community and sharing the knowledge and experiences I have over time as an Data Scientist.I have given talks & sessions in the following events:
+- 🚀 I am very passionate about giving back to the community and sharing the knowledge and experiences I have over time as a Data Scientist.I have given talks & sessions in the following events:
     - DroidCon KE
     - Dev Fest Uyo & Mombasa 
     - I/O Extended events in Nairobi & GDSC Nairobi Edition.
