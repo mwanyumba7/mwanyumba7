@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-- 🤖 I'm Brayan Kai, a Data Scientist and Technical Writer. I'm passionate about building impactful solutions and products with Machine Learning. I'm continually expanding my knowledge and never tired of learning and helping other developers advance their skills. I enjoy and love writing technical articles on Machine Learning and Artificial Inteligence related topics and contributing to open source projects
+- 🤖 I'm Brayan Kai, a Data Scientist and Technical Writer. I'm passionate about building impactful solutions and products with Machine Learning. I'm never tired of learning and helping other developers advance their skills. I love writing technical articles on Machine Learning and Artificial Inteligence related topics and contributing to open source projects
 
-- 👨🏽‍💻 Currently, I'm working on a project with [Omdena](https://omdena.com/) in patnership with [Learnroll](https://www.learnroll.com/). In this role, we're helping develop a model that can address the issue of implicit biases in healthcare. I collaborate with a cross functional team to help develop an AI model that can accurately help in identifying and mitigating implicit bias for a specific gender bias for patient vignette types in ER scenarios.
+- 👨🏽‍💻 Currently, I'm working on a project with [Omdena](https://omdena.com/) in patnership with [Learnroll](https://www.learnroll.com/). In this project, we're helping develop a model that can address the issue of implicit biases in healthcare. I collaborate with a cross functional team to help develop an AI model that can accurately help in identifying and mitigating implicit bias for a specific gender bias for patient vignette types in ER scenarios.
 
-- 👥 I'm currently the Technical Writing Channel Lead for [Dev Carrers](https://devcareer.io/) Community. I'm also on the core team for [GDSC Kabarak University](https://gdsc.community.dev/kabarak-university/), leading the Technical Writing track. I also volunteer in the [Open Source Community Africa Nairobi](https://github.com/OSCA-Nairobi). 
+- 👥 I'm currently the Technical Writing Channel Lead for [Dev Carrers](https://devcareer.io/) Community. I'm also on the core team for [GDSC Kabarak University](https://gdsc.community.dev/kabarak-university/), leading the Technical Writing track. I also volunteer in the [Open Source Community Africa, Nairobi](https://github.com/OSCA-Nairobi). 
 
 - 🚀 I am very passionate about giving back to the community and sharing the knowledge and experiences I have over time as an Data Scientist.I have given talks & sessions in the following events:
     - DroidCon KE
     - Dev Fest Uyo & Mombasa 
     - I/O Extended events in Nairobi & GDSC Nairobi Edition.
-    - Several Google Developer Students Club meetups including; Moi University, Kabarak Univesity & University of Lay Adventist Kigali
+    - Several Google Developer Students Club meetups including; Moi University, Kabarak Univesity, Kibabii University & University of Lay Adventist Kigali
 
 Let's connect here : 
 
@@ -35,17 +35,5 @@ Let's connect here :
 
 
 
-<!--
-**mwanyumba7/mwanyumba7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
