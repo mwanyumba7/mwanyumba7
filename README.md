@@ -10,7 +10,7 @@
     - DroidCon KE
     - Dev Fest Uyo & Mombasa 
     - I/O Extended events in Nairobi & GDSC Nairobi Edition.
-    - Several Google Developer Students Club meetups including; Moi University, Kabarak Univesity & University of Lay Adventist Kigali
+    - Several Google Developer Students Club meetups including; Moi University, Kabarak Univesity, Kibabii University & University of Lay Adventist Kigali
 
 Let's connect here : 
 
@@ -37,7 +37,23 @@ Let's connect here :
 
 <p align="left"> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+## My GitHub Stats 📊
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mwanyumba7&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwanyumba7" />
+</a>
 
+<br>
+
+## Recent Work
+
+- [A Gentle Introduction to Neural Networks](https://youtu.be/_L5Kfy0gpWY) In this session hosted by GDSC UNILAK, I covered an introductory session to the atendees about Neural Networks. Covering the essentials explaining the concepts of Neurons, common activation functions  , layers and loss & Optimizer functions. I did a demo on building a simple Neuron Network and each participant was able to build their machine learning model with neural networks.
+
+- [Crowdsource Africa Day Meet-up](https://www.linkedin.com/posts/brayan-mwanyumba-309498227_googlecrowdsource-activity-7069036903802503168-LB_S?utm_source=share&utm_medium=member_desktop) Had a chance to give a talk at the Crowdsorce Africa Day Meet-up. This is a day where as Africans we celebrate our Unity , shared heritage and reaffirm our commitment in building a prosperous Africa. I shared about the Kenyan Coast where I specifically focused on our culture and the history of successes we have had as the coastal region of Kenya. Highlighting our Cultural Diversity and Swahili Heritage, Beautiful beaches and Marine life not forgetting our Historical and Architectural Significance.
+
+- [Machine Learning : Basics and Beyond](https://youtu.be/GzcIodiTCVc) In this session hosted by GDSC UNILAK, I walked the atendees through an intoduction to machine learning. I covered the concept of Rule based aaproach and Machine Learning approach in solving problems. Took the atendees through the Machine Learning Process from Idea to Implementation. Dived deep into the difference between Artificial Inteligence, Machine Learning and Deep Learning and the different Machine Learning problems i.e Classification, Regression, Clustering, Sequence Prediction and Style Transfer.  
 <!--
 **mwanyumba7/mwanyumba7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
