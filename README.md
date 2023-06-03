@@ -58,6 +58,32 @@ Let's connect here :
 - [GDG Nairobi Professional Machine Learning Engineer Study Group](https://gdg.community.dev/events/details/google-gdg-nairobi-presents-certification-study-group-professional-machine-learning-2023-05-18/cohost-gdg-nairobi) Being one of the facilitators for the Road to Google Developer Certification study group organized by GDG Nairobi. During the week 2 session, I led discussions on ML Problem Framing, which included translating business challenges into ML use cases, defining ML problems, establishing business success criteria, identifying risks, and envisioning future improvements. Furthermore, I guided participants through ML Solution Architecture, where we explored designing reliable and scalable ML solutions, selecting appropriate Google Cloud software and hardware components, and ensuring compliance with regulatory and security requirements. To support their exam preparation, I conducted a thorough review of sample questions for the Professional Machine Learning Engineer Certification.
 
 - [Open Source Day Nairobi](https://twitter.com/osca_nairobi/status/1634526519287595009) Led a round table discussion on Open Source Contributions as Practitioners in the Data Field at the Open Source Day Nairobi. Here we discussed common challenges faced when contributing to data projects.We tackled common challenges, ensuring accuracy and quality, effective collaboration, and promoting inclusivity among underrepresented communities in the open sour. It was an engaging exchange of ideas that propelled us towards advancing open source data projects.
+
+## Older Contributions
+
+### YouTube Presentation Videos
+
+- [A Gentle Introduction to Neural Networks](https://youtu.be/_L5Kfy0gpWY)
+- [Machine Learning: Basics and Beyond](https://youtu.be/GzcIodiTCVc)
+
+### 🔖 Technical Articles
+
+#### [Dev.to](https://dev.to/brayan_kai)
+
+- [The Ultimate Guide To Getting Started In Data Science](https://dev.to/brayan_kai/the-ultimate-guide-to-getting-started-in-data-science-4h9b)
+- [Mastering Python the Right Way](https://dev.to/brayan_kai/mastering-python-the-right-way-2gi)
+- [Data Structures 101: Introduction to Data Structures and Algorithms](https://dev.to/brayan_kai/introduction-to-data-structures-and-algorithms-with-python-3jhn)
+- [Python 101: Introduction to Modern Python](https://dev.to/brayan_kai/python-101-introduction-to-modern-python-2757)
+
+#### [She Code Africa Nairobi](https://scanairobi.hashnode.dev/)
+
+- [The Complete Guide to AIOps - Everything You Need to Know](https://scanairobi.hashnode.dev/the-complete-guide-to-aiops-everything-you-need-to-know)
+- [Data Analytics with Excel Pivot Tables](https://scanairobi.hashnode.dev/data-analytics-with-excel-pivot-tables)
+- [Inclusion Diversity and Data Science](https://scanairobi.hashnode.dev/inclusion-diversity-and-data-science)
+- [My Data Career Diary: Google I/O 22 Extended Nairobi](https://scanairobi.hashnode.dev/my-data-career-diary-google-io-22-extended-nairobi)
+
+
+
 <!--
 **mwanyumba7/mwanyumba7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
