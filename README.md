@@ -57,7 +57,9 @@ Let's connect here :
 
 - [GDG Nairobi Professional Machine Learning Engineer Study Group](https://gdg.community.dev/events/details/google-gdg-nairobi-presents-certification-study-group-professional-machine-learning-2023-05-18/cohost-gdg-nairobi) Being one of the facilitators for the Road to Google Developer Certification study group organized by GDG Nairobi. During the week 2 session, I led discussions on ML Problem Framing, which included translating business challenges into ML use cases, defining ML problems, establishing business success criteria, identifying risks, and envisioning future improvements. Furthermore, I guided participants through ML Solution Architecture, where we explored designing reliable and scalable ML solutions, selecting appropriate Google Cloud software and hardware components, and ensuring compliance with regulatory and security requirements. To support their exam preparation, I conducted a thorough review of sample questions for the Professional Machine Learning Engineer Certification.
 
-- [Open Source Day Nairobi](https://twitter.com/osca_nairobi/status/1634526519287595009) Led a round table discussion on Open Source Contributions as Practitioners in the Data Field at the Open Source Day Nairobi. Here we discussed common challenges faced when contributing to data projects.We tackled common challenges, ensuring accuracy and quality, effective collaboration, and promoting inclusivity among underrepresented communities in the open sour. It was an engaging exchange of ideas that propelled us towards advancing open source data projects.
+- [Open Source Day Nairobi](https://twitter.com/osca_nairobi/status/1634526519287595009) Led a round table discussion on Open Source Contributions as Practitioners in the Data Field at the Open Source Day Nairobi. Here we discussed common challenges faced when contributing to data projects.We tackled common challenges, ensuring accuracy and quality, effective collaboration, and promoting inclusivity among underrepresented communities in the open source arena. It was an engaging exchange of ideas that propelled us towards advancing open source data projects.
+
+- [Exploring the Intersection of Machine Learning, TinyML, and Responsible Innovation](https://gdsc.community.dev/events/details/developer-student-clubs-moi-university-presents-exploring-the-intersection-of-machine-learning-iot-and-responsible-innovation/) In this workshop held by GDSC Moi University, I had the opportunity to cover a wide range of topics to provide participants with a comprehensive learning experience. The workshop began with an introduction to Machine Learning (ML) and Tiny ML, covering key concepts such as supervised and unsupervised learning, regression, classification, and exploring the potential applications of Tiny ML. Additionally, participants gained insights into the fundamentals of the Internet of Things (IoT) and its various use cases across industries like healthcare, transportation, and smart cities. Through a hands-on demo session, learners were able to develop machine learning models and deploy them on an IoT device, specifically the Arduino NANO RP2040, thereby gaining practical experience in ML and IoT integration. Furthermore, the workshop emphasized the importance of responsible innovation and ethics in AI, delving into the ethical considerations and potential societal impacts of AI technologies, equipping participants with knowledge and strategies to ensure ethical practices and mitigate any adverse effects. Overall, the workshop aimed to provide a holistic understanding of Machine Learning, Tiny ML, IoT, and ethical considerations, empowering participants with valuable insights into these cutting-edge technologies.
 
 ## Older Contributions
 
@@ -81,6 +83,10 @@ Let's connect here :
 - [Data Analytics with Excel Pivot Tables](https://scanairobi.hashnode.dev/data-analytics-with-excel-pivot-tables)
 - [Inclusion Diversity and Data Science](https://scanairobi.hashnode.dev/inclusion-diversity-and-data-science)
 - [My Data Career Diary: Google I/O 22 Extended Nairobi](https://scanairobi.hashnode.dev/my-data-career-diary-google-io-22-extended-nairobi)
+
+#### freeCodeCamp.org in Swahili
+
+- [List Index Out of Range - Suluhisho kwa Kosa la Python](https://www.freecodecamp.org/swahili/news/list-index-out-of-range-suluhisho/)
 
 
 
