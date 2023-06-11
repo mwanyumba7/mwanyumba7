@@ -11,6 +11,7 @@
     - Dev Fest Uyo & Mombasa 
     - I/O Extended events in Nairobi & GDSC Nairobi Edition.
     - Several Google Developer Students Club meetups including; Moi University, Kabarak Univesity, Kibabii University & University of Lay Adventist Kigali
+    - Space Ya Tech Tech-Talks
 
 Let's connect here : 
 
@@ -48,6 +49,9 @@ Let's connect here :
 <br>
 
 ## Recent Work
+
+- [Streamlining Data Analysis with Simple ML for Sheets](https://www.eventbrite.com/e/streamlining-data-analysis-with-simple-ml-for-sheets-tickets-649937258837) In this session hosted by [Space Ya Tech](https://twitter.com/spaceyatech) I talked how you can apply the power of machine learning to your data in Google Sheets in just a few clicks. I explored the following with live demos: Predicting missing Values, Spotting abnormal values, Forecasting Values, Training and understanding a model from your data. Atendees were able to learn how to leverage the add-on on Google Sheets to bring the power of Machine Learning to where there data is. 
+
 
 - [A Gentle Introduction to Neural Networks](https://youtu.be/_L5Kfy0gpWY) In this session hosted by GDSC UNILAK, I covered an introductory session to the atendees about Neural Networks. Covering the essentials explaining the concepts of Neurons, common activation functions  , layers and loss & Optimizer functions. I did a demo on building a simple Neuron Network and each participant was able to build their machine learning model with neural networks.
 
