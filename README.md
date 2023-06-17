@@ -11,7 +11,7 @@
     - DroidCon KE
     - Dev Fest Uyo & Mombasa 
     - I/O Extended events in Nairobi & GDSC Nairobi Edition.
-    - Several Google Developer Students Club meetups including; Moi University, Kabarak Univesity, Kibabii University & University of Lay Adventist Kigali
+    - Several Google Developer Students Club meetups including; Moi University, Kabarak Univesity, Kibabii University, University of Lay Adventist Kigali, & Coast Institute of Technology 
     - Space Ya Tech Tech-Talks
 
 Let's connect here : 
