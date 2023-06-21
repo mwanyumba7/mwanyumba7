@@ -50,6 +50,7 @@ Let's connect here :
 <br>
 
 ## Recent Work
+- [Building Responsible AI: It's Not Rocket Science](https://gdsc.community.dev/events/details/developer-student-clubs-university-of-lay-adventist-of-kigali-presents-explore-ml-study-jam-2023-06-21/) In this session hosted by GDSC University of lay adventist Kigali I covered the key aspects of ethical AI development. I explored Ethics, Data Ethics, and AI Ethics, discussing responsible AI best practices. Additionally, i shared with the atendees on recognizing biases in ML and categorizing AI models through taxonomy. The session aimed to equip participants with the knowledge and tools to develop AI systems that are transparent, fair, and accountable. By emphasizing responsible AI development, I aimed to build awareness and promote ethical practices in AI without unnecessary complexity.
 
 - [Building Trust in AI: The Importance of Explainability in Open Source Projects](https://twitter.com/chaoss_africa/status/1666444906263461888?t=TPglCUOhBmgg7WNpcjH2CA&s=19) In this talk which I gave at [CHAOSScon Africa 23](https://chaoss.community/chaosscon-2023-africa/) I dived into the critical role of explainability in open source AI and ML Projects and its impact on community health. Sharing how transparency and accountability in open source AI projects can foster trust and collaboration. Empowering the attendees on the importance of building trust in their AI projects through Explainability.  
 
