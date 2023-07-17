@@ -13,6 +13,7 @@
     - I/O Extended events in Nairobi & GDSC Nairobi Edition.
     - Several Google Developer Students Club meetups including; Moi University, Kabarak Univesity, Kibabii University, University of Lay Adventist Kigali, & Coast Institute of Technology 
     - Space Ya Tech Tech-Talks
+    - [...See more](https://github.com/mwanyumba7/TalksandEvents/blob/main/Talks/README.md) 
 
 Let's connect here : 
 
