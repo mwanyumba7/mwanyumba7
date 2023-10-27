@@ -12,7 +12,7 @@
     - DroidCon KE
     - Dev Fest Uyo & Mombasa 
     - I/O Extended events in Nairobi & GDSC Nairobi Edition.
-    - Several Google Developer Students Club meetups including; Moi University, Kabarak Univesity, Kibabii University, University of Lay Adventist Kigali, & Coast Institute of Technology 
+    - Several Google Developer Students Club meetups including; Moi University, Kabarak Univesity, Kibabii University, University of Lay Adventist Kigali, KCA University, Egerton University, Mount Kenya University, Rift Valley Technical Training Institute, Meru University of Science and Technology, Daystar University & Coast Institute of Technology 
     - Space Ya Tech Tech-Talks
     - [...See more](https://github.com/mwanyumba7/TalksandEvents/blob/main/Talks/README.md) 
 
@@ -52,6 +52,8 @@ Let's connect here :
 <br>
 
 ## Recent Work
+
+- [Open Source Solutions for Responsible AI Mitigations and Tracking](https://x.com/Kai_mwanyumba/status/1717416393266679977?s=20) This is a tehnical talk on Responsible AI focused on fairness that I gave at the Africa's Talking Summit 23. I covered the different types of algorithmic overing why algorithmi harms are not disjoint. I then delved into a pratial demonstration sharing with the audiene how they an use the Know Your Data tool to understand their data. Answering questions like:; is thier data corrupted or sensitive. Does it have gaps and is it balane aross various attributes. Helping them build more fair Machine Learning Models. 
 
 - [Unlocking Data Insights for Fair Machine Learning: Exploring Know Your Data](https://twitter.com/Ms_Konya/status/1680614877490999304?s=20). In this engaging talk, I delve into the world of dataset biases and their impact on machine learning models. I explored how biases can perpetuate stereotypes and hinder fairness, emphasizing the need to understand and address these issues. The revolutionary [Know Your Data (KYD)](https://knowyourdata-tfds.withgoogle.com/) tool took the spotlight as I showcased its capabilities in empowering ML practitioners to gain deep insights into their data. By leveraging KYD's features, attendees learned how to identify biases, improve data quality, and foster fairer and more equitable models. Through a practical case study, I demonstrated the step-by-step process of utilizing KYD to address fairness concerns, providing attendees with actionable strategies and techniques to enhance their machine learning workflows.
 
