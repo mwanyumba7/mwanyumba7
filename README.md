@@ -29,7 +29,7 @@ Let's connect here :
   <a href="https://github.com/mwanyumba7?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/mwanyumba7?color=green&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/brayan-mwanyumba-309498227 ">
+  <a href="https://www.linkedin.com/in/brayan-kai-mwanyumba-64a200390/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
   </a>
   <a href="https://dev.to/brayan_kai">
